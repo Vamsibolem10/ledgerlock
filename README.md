@@ -13,16 +13,15 @@ Ledger-Lock is a **Blockchain-Based Anti-Money Laundering (AML) System** designe
 
 ---
 
-## 🛠️ Technologies Used  
-- **Programming Language:** Python  
-- **Blockchain Framework:** Ethereum / Hyperledger Fabric  
+## Technologies Used  
+- **Programming Language:** Python   
 - **Machine Learning:** Scikit-learn, TensorFlow  
 - **Database:** PostgreSQL / IPFS  
 - **Security:** Cryptographic encryption  
 
 ---
 
-## 🔧 Installation & Usage  
+## Installation & Usage  
  
 ```bash
 pip install -r requirements.txt
